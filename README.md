@@ -39,7 +39,7 @@ Project Organization
 3. Python Data Science Handbook: Visualization with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
 
 
-
+## Declaration
 The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct.
 
 
