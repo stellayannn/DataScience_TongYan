@@ -32,10 +32,12 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
+
 ## References
 1. 17k Mobile Strategy Games Dataset: https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games
 2. Data Viz. What to focus on as a game dev? by hkhoi: https://www.kaggle.com/hkhoi91/data-viz-what-to-focus-on-as-a-game-dev
 3. Python Data Science Handbook: Visualization with Seaborn: https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
+
 
 
 The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct.
